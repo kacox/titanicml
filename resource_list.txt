@@ -1,0 +1,28 @@
+Seaborn referencing:
+-General:
+--https://docs.python.org/3.3/library/functions.html#zip
+--http://mlwhiz.com/blog/2015/09/13/seaborn_visualizations/
+-Countplot:
+--http://seaborn.pydata.org/generated/seaborn.countplot.html
+--http://stackoverflow.com/questions/28931224/adding-value-labels-on-a-matplotlib-bar-chart
+--http://matplotlib.org/examples/api/barchart_demo.html
+--http://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.text
+-Boxplot:
+--http://seaborn.pydata.org/generated/seaborn.boxplot.html
+
+Markdown referencing:
+-http://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
+-http://www.statpower.net/Content/310/R%20Stuff/SampleMarkdown.html
+
+Pandas referencing:
+-http://pandas.pydata.org/pandas-docs/stable/
+
+Statistical referencing:
+-https://docs.scipy.org/
+-http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-24.html
+-http://stats.stackexchange.com/questions/31361/some-questions-about-two-sample-comparisons
+
+Misc:
+-http://www.fileformat.info/info/unicode/char/b1/index.htm
+http://matplotlib.org/users/legend_guide.html
+http://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.legend.html
