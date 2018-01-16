@@ -1,6 +1,8 @@
 ### investigatedataset
 # Repository for Investigate a Dataset
 
+View project report here: https://kacox.github.io/investigatedataset/
+
 ## Overview
 This project is an analysis of the Titanic Dataset from Kaggle.com using Jupyter Notebook, Python, Pandas, NumPy, and Seaborn. The dataset contains information for 891 passengers with 12 variables. The goal of this investigation was to determine if any variables correlate with passenger survival.
 
@@ -32,7 +34,7 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 **Question guiding investigation:** Which passenger characteristics correlate with survival?
 
 ## Files
-**kcox_p2.html** - Main file of finished project (HTML file)  
+**index.html** - Main file of finished project (HTML file)  
 **Titanic.ipynb** - Investigation code (iPython notebook)  
 **titanic_data.csv** - Data source for analysis (CSV)  
 **README.md** - Information on data set and variales (Markdown file)  
