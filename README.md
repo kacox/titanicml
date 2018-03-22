@@ -1,7 +1,7 @@
 ### investigatedataset
 # Repository for Titanic: Machine Learning from Disaster
 
-View project page here: https://kacox.github.io/investigatedataset/
+View project page here: https://kacox.github.io/titanicml/
 
 ## Overview
 This project is an analysis of and deployment of a machine learning algorithm on the Titanic Dataset from Kaggle.com.
